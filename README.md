@@ -77,8 +77,7 @@ Installation
 
 Clone the repository
 
-git clone https://github.com/yourusername/Forecasting-Self-Harm-Trends.git
-
+git clone(https://github.com/masood-pasha25/Forecasting-National-Level-Self-Harm-Trends-Using-Machine-Learning-and-Social-Network-Signals.git)
 Move into the project
 
 cd Forecasting-Self-Harm-Trends
